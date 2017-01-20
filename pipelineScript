@@ -1,5 +1,5 @@
 node {
   stage 'Run JMeter Test'
-  sh '/Users/prasad.p/documents/jmeter/bin/jmeter.sh -n -t /Users/prasad.p/Desktop/TUClothing.jmx -Jusers=12 -l test.jtl'
+  sh '/Users/prasad.p/documents/jmeter/bin/jmeter.sh -n -t /Users/prasad.p/Desktop/TUClothing.jmx -Jusers=13 -l test.jtl'
 }
 
